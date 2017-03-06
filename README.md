@@ -312,5 +312,5 @@ Vimscript mappings:
 ## How to uninstall
 Do following:
 * Remove `~/.vim_runtime`
-* Remove any lines that refernce `.vim_runtime` in your `~/.vimrc`
+* Remove any lines that reference `.vim_runtime` in your `~/.vimrc`
 
